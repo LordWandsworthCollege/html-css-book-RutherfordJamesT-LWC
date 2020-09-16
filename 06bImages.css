@@ -1,0 +1,42 @@
+body {
+    background-color: darkorange;
+    width: 75%;
+    border:20px dotted purple;
+    border-radius:30px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 1px;
+    margin-left: 10px;
+
+}
+
+body2 {
+    background-color: darkgoldenrod;
+    width: 45%;
+    border:35px double crimson;
+    border-radius:25px;
+}
+
+h1 {
+    color: lawngreen;
+    text-align: center;
+    text-decoration: overline;
+    text-transform: uppercase;
+    text-indent: 50px;
+    font-family: Impact, Charcoal, sans-serif;
+}
+
+p {
+    font-family: verdana;
+    font-size: 20px;
+}
+
+extext {
+    background-color: darkslategrey;
+    color: mediumspringgreen;
+    text-transform: capitalize;
+    text-indent: 10px;
+    text-decoration: underline;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+}

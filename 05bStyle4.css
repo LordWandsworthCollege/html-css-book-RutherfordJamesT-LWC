@@ -1,0 +1,23 @@
+body{
+    width: 80%;
+    margin:auto;
+    margin-top: 5%;
+    border:blue solid 5px;
+    border-radius: 25px;
+    padding:5%;
+}
+
+#song {
+    font: 3rem "Arial Black";
+    font-weight: 50;
+    color:blue;
+}
+/*#chorus{
+    font:1rem "Arial Black";
+    font-weight:5;
+} */
+
+#band{
+    font: 2rem "Arial Black";
+    font-weight: 10;
+}
